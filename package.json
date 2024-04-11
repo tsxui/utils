@@ -1,0 +1,8 @@
+{
+  "name": "@tsxui/utils",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:tsxui/utils.git",
+  "author": "Canh Nguyen Van <ngvcanh2014@gmail.com>",
+  "license": "MIT"
+}
